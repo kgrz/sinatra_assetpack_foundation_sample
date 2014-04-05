@@ -27,3 +27,11 @@ If you'd like to upgrade to a newer version of Foundation down the road just run
 ```bash
 bower update
 ```
+
+
+## Starting the app
+
+Run `bundle install`
+Run `ruby app.rb`
+
+Visit `http://localhost:4567/`
